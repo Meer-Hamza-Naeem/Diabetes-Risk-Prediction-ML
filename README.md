@@ -1,5 +1,20 @@
 # Predictive Modeling Framework for Clinical Diabetes Risk Stratification
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Vision-PyTorch%20%7C%20OpenCV-EE4C2C.svg?logo=pytorch&logoColor=white" alt="Vision">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 ## Overview
 
 Diabetes mellitus represents one of the most pervasive metabolic disorders globally, requiring early and accurate clinical diagnosis to prevent severe microvascular and macrovascular complications.
@@ -7,7 +22,6 @@ Diabetes mellitus represents one of the most pervasive metabolic disorders globa
 This project develops an enterprise-grade predictive modeling and risk stratification framework trained on a population-scale cohort of 100,000 electronic health records. By evaluating ensemble decision forests, support vector machines, and deep artificial neural networks, the system achieves over 97.18% diagnostic classification accuracy while identifying key metabolic risk indicators.
 
 ---
-
 
 ---
 
@@ -184,3 +198,15 @@ Execute the training pipeline via Jupyter:
 ```bash
 jupyter notebook project.ipynb
 ```
+
+---
+
+## Author & Maintainer
+
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
+
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
