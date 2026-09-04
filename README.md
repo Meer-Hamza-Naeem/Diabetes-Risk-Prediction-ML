@@ -207,10 +207,11 @@ jupyter notebook project.ipynb
 ## Author & Maintainer
 
 **Meer Hamza Naeem**  
-*Business Development Executive at Hajisons*  
+*AI Engineer*  
 **
 
 * **Email**: [analystatwork512@gmail.com](mailto:analystatwork512@gmail.com)
 * **LinkedIn**: [linkedin.com/in/meer-hamza-82a751393](https://www.linkedin.com/in/meer-hamza-82a751393)
 * **GitHub**: [github.com/Meer-Hamza-Naeem](https://github.com/Meer-Hamza-Naeem)
+
 
