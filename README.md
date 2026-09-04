@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Clinical-Diabetes%20Risk%20Stratification-success.svg" alt="Diabetes">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
-**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+**Enterprise-grade, high-performance implementation built and maintained by Meer Hamza Naeem.**
 
 [Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
@@ -169,7 +169,7 @@ predictive-diabetes-detection/
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/AbdulRehmanRattu/Predictive-Models-for-Diabetes-Detection.git
+git clone https://github.com/Meer-Hamza-Naeem/Predictive-Models-for-Diabetes-Detection.git
 cd Predictive-Models-for-Diabetes-Detection
 ```
 
@@ -206,10 +206,11 @@ jupyter notebook project.ipynb
 
 ## Author & Maintainer
 
-**Abdul Rehman Rattu**  
-*Forward Deployed AI Engineer & Solutions Architect*  
-*Founder & Technical Lead, Rapide Technologies*
+**Meer Hamza Naeem**  
+*Business Development Executive at Hajisons*  
+**
 
-* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
-* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
-* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
+* **Email**: [analystatwork512@gmail.com](mailto:analystatwork512@gmail.com)
+* **LinkedIn**: [linkedin.com/in/meer-hamza-82a751393](https://www.linkedin.com/in/meer-hamza-82a751393)
+* **GitHub**: [github.com/Meer-Hamza-Naeem](https://github.com/Meer-Hamza-Naeem)
+
